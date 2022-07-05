@@ -11,8 +11,6 @@ File Encrypt Software
 <p><a href="http://gildingcard.starfree.jp/"> http://gildingcard.starfree.jp</a></p>
 <p><a href="https://github.com/Vail-Zero/VailDEC3-sources/releases/tag/3.0.0">Windowsインストーラ版(release)</a></p>
 <hr>
-<h2>screenshot</h2>
-<img src="./img/screenshot.PNG" width="451" height="300">
 本ソフトウェアでファイルに設定したパスワードを忘れた場合、作者でも解読は不可能です。
 <br>
 ※本ソフトウェアで暗号化したファイルは現時点ではVailDEC4でのみ復号化が可能です。
