@@ -9,7 +9,7 @@ File Encrypt Software
 <p>フリーソフトウェアとして配布されています。</p>
 インストーラーなどのアーカイブも、Releseで配布してありますが、 以下の公式サイトでも配布しております。そちらかもどうぞ。
 <p><a href="http://gildingcard.starfree.jp/"> http://gildingcard.starfree.jp</a></p>
-<p><a href="https://github.com/Vail-Zero/VailDEC3-sources/releases/tag/3.0.0">Windowsインストーラ版(release)</a></p>
+<p><a href="https://github.com/rinasvideo/VailDEC4/releases/tag/3.0.0">Windowsインストーラ版(release)</a></p>
 <hr>
 本ソフトウェアでファイルに設定したパスワードを忘れた場合、作者でも解読は不可能です。
 <br>
