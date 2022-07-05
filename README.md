@@ -1,6 +1,8 @@
 File Encrypt Software
 <br>
 操作説明はこのリポジトリの<a href="https://github.com/rinasvideo/VailDEC4/wiki">Wiki</a>に記載されています。
+<br>
+このソフトウェアはサイズの小さいファイルを暗号化することができます。
 <h1>VailDEC4</h1>
 <p>このソフトウェアは簡単に使用できることを目標に制作された操作が簡単なファイル暗号化ソフトウェアです。</p>
 <p>フリーソフトウェアとして配布されています。</p>
