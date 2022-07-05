@@ -7,7 +7,7 @@ File Encrypt Software
 <p>フリーソフトウェアとして配布されています。</p>
 
 インストーラーなどのアーカイブも、Releseで配布してありますが、 以下の公式サイトでも配布しております。そちらかもどうぞ。
-<p><a href="http://gdec.starfree.jp/">http://gdec.starfree.jp/</a></p>
+<p><a href="http://gildingcard.starfree.jp/"> http://gildingcard.starfree.jp</a></p>
 <p><a href="https://github.com/Vail-Zero/VailDEC3-sources/releases/tag/3.0.0">Windowsインストーラ版(release)</a></p>
 
 <hr></hr>
