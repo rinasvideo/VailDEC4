@@ -9,14 +9,13 @@ File Encrypt Software
 インストーラーなどのアーカイブも、Releseで配布してありますが、 以下の公式サイトでも配布しております。そちらかもどうぞ。
 <p><a href="http://gildingcard.starfree.jp/"> http://gildingcard.starfree.jp</a></p>
 <p><a href="https://github.com/Vail-Zero/VailDEC3-sources/releases/tag/3.0.0">Windowsインストーラ版(release)</a></p>
-
-<hr></hr>
+<hr>
 <h2>screenshot</h2>
 <img src="./img/screenshot.PNG" width="451" height="300">
 本ソフトウェアでファイルに設定したパスワードを忘れた場合、作者でも解読は不可能です。
 <br>
 ※本ソフトウェアで暗号化したファイルは同じVailDEC4でのみ復号化が可能です。
-<hr></hr>
+<hr>
 VailDEC4内で使っている別作者によるライブラリは、それぞれのライセンスに従ってください
 
 VailDEC4はライブラリなどの環境を整えれば、どのプラットフォームでも動かすことができます。<br>
